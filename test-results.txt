@@ -1,0 +1,20 @@
+
+ RUN  v4.0.18 /workspace
+
+ ✓ tests/reporter.test.ts (5 tests) 83ms
+ ✓ tests/ai-provider.test.ts (14 tests) 103ms
+ ✓ tests/project-detector.test.ts (27 tests) 205ms
+ ✓ tests/policy.test.ts (17 tests) 201ms
+ ✓ tests/context.test.ts (10 tests) 107ms
+ ✓ tests/logger.test.ts (4 tests) 196ms
+ ✓ tests/state-store.test.ts (14 tests) 300ms
+ ✓ tests/sanitize.test.ts (39 tests) 299ms
+ ✓ tests/validation.test.ts (6 tests) 96ms
+ ✓ tests/config.test.ts (6 tests) 292ms
+ ✓ tests/jira-helpers.test.ts (12 tests) 93ms
+
+ Test Files  11 passed (11)
+      Tests  154 passed (154)
+   Start at  12:38:35
+   Duration  5.77s (transform 8.65s, setup 0ms, import 19.08s, tests 1.97s, environment 181ms)
+
