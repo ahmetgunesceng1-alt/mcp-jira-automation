@@ -1,0 +1,9 @@
+
+ RUN  v4.0.18 /workspace
+
+No test files found, exiting with code 0
+
+filter: >, test-results.txt
+include: tests/**/*.test.ts
+exclude:  **/node_modules/**, **/.git/**
+
